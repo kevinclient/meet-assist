@@ -15,5 +15,6 @@ class StudDetails {
 let stname = "Swift 4"
 let mark = 98
 
+//print something
 print(stname)
 print(mark)
